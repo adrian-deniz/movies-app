@@ -1,0 +1,23 @@
+.movie-card {
+    border: 2px solid red;
+    width: 300px;
+    flex: 1;
+}
+
+.movie-card__title {
+
+}
+
+.movie-card__image {
+
+}
+
+
+.movie-card__type {
+
+    background-color: pink;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+}
